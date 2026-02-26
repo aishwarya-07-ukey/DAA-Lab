@@ -1,16 +1,29 @@
 # Design and Analysis of Algorithms (DAA)
 
-This repository contains my DAA lab programs and algorithm implementations.
+This repository contains my DAA lab work and algorithm implementations in PDF format.
 
-## Topics Covered:
-- Sorting Algorithms (Merge Sort, Quick Sort, etc.)
-- Searching Algorithms (Linear & Binary Search)
-- Time Complexity Analysis
-- Divide and Conquer
-- Greedy Algorithms
-- Queen Algorithm
+## Algorithms Included:
 
-## Language Used:
-C language
+### Searching
+- Linear Search
+- Binary Search
 
-This repository reflects my understanding of algorithm design and efficiency.
+### Sorting
+- Merge Sort
+- Quick sort
+- 
+### Graph Algorithms
+- Dijkstra's Algorithm
+- Floyd Warshall Algorithm
+- Prim’s Algorithm
+- Kruskal’s Algorithm
+
+### Greedy Algorithms
+- Fractional Knapsack
+- Knapsack Problem
+- Optimal Merge Pattern
+
+### Backtracking
+- N-Queen Problem
+
+These programs demonstrate my understanding of algorithm design, efficiency, and problem-solving.
